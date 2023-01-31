@@ -50,7 +50,7 @@
 def rcos():
 	return "Rensselaer Center for Open Source"
 
-def alyssa_p():
+def alyssa():
 	surname = "hapck.er"
 	remove = ". p"
 	return "p. hacker"
